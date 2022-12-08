@@ -23,10 +23,10 @@
 
 # Demo Link
 
-### [https://loquacious-horse-682a98.netlify.app/main](https://loquacious-horse-682a98.netlify.app/main) .
+### [http://localhost:3000/](http://localhost:3000/) .
 
 # Screenshots
 
-![HomePage](https://github.com/MuhammadBilalQamar/NextJs-App/blob/main/screenshots/homePage.png](https://github.com/MuhammadBilalQamar/reactjs-vercel-deploy/blob/main/Client/screenshots/home.png)
+![HomePage](https://github.com/MuhammadBilalQamar/NextJs-App/blob/main/screenshots/homePage.png)
 
-![AddSector]([https://github.com/MuhammadBilalQamar/NextJs-App/blob/main/screenshots/homePage.png](https://github.com/MuhammadBilalQamar/reactjs-vercel-deploy/blob/main/Client/screenshots/home.png)
+![AddSector]([https://github.com/MuhammadBilalQamar/NextJs-App/blob/main/screenshots/homePage.png)
