@@ -23,7 +23,7 @@
 
 # Demo Link
 
-### [http://localhost:3000/](http://localhost:3000/) .
+### [https://reactjs-vercel-deploy.vercel.app/add-sector](https://reactjs-vercel-deploy.vercel.app/add-sector) .
 
 # Screenshots
 
