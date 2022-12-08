@@ -1,0 +1,33 @@
+.Sectors {
+  width: 100%;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
+
+.MuiAppBar-colorPrimary {
+  background-color: #3f51b5 !important;
+}
+
+.submitButton {
+  color: white !important;
+}
+
+.SectorError {
+  color: #f44336;
+  margin-left: 14px;
+  margin-right: 14px;
+  /* margin: 0; */
+  font-size: 0.75rem;
+  margin-top: 3px;
+  text-align: left;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-weight: 400;
+  line-height: 1.66;
+  letter-spacing: 0.03333em;
+}
+
+.EditIcon {
+  cursor: pointer;
+}
