@@ -1,7 +1,7 @@
 import { SUCCESS_MESSAGES, ERROR_MESSAGES } from "../apiMessages";
 
 // CONSTANT BASE URL YOU CAN GET IT FROM {process.env} AS WELL IF YOU WANT
-const BASE_URL = "http://localhost:5000";
+const BASE_URL = "https://new-challenge.herokuapp.com";
 
 export default class SectorService {
   // GET ALL SECTORS API
